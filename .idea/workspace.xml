@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f115625-3718-42d3-afe0-cfb4ed1ce3c2" name="Default Changelist" comment="Commit project">
+    <list default="true" id="0f115625-3718-42d3-afe0-cfb4ed1ce3c2" name="Default Changelist" comment="Add project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +78,7 @@
       <workItem from="1618307674477" duration="91000" />
       <workItem from="1618307779153" duration="13000" />
       <workItem from="1618308062766" duration="866000" />
+      <workItem from="1618310151965" duration="947000" />
     </task>
     <task id="LOCAL-00001" summary="Commit project">
       <created>1618309167800</created>
@@ -68,15 +87,34 @@
       <option name="project" value="LOCAL" />
       <updated>1618309167800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add project">
+      <created>1618310404234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618310404234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit project" />
+    <MESSAGE value="Add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="334" key="Github.ShareDialog" timestamp="1618309052125">
@@ -87,9 +125,10 @@
       <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="380" y="142" key="Github.UntrackedFilesDialog/0.25.1440.818@0.25.1440.818" timestamp="1618309062110" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1618309175761">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1618310411175">
+      <screen x="0" y="25" width="1440" height="817" />
     </state>
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.817@0.25.1440.817" timestamp="1618310411175" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.818@0.25.1440.818" timestamp="1618309175761" />
   </component>
 </project>
